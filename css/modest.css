@@ -1,0 +1,298 @@
+
+
+.wrapper .container .row  {
+      color:#1d2126;
+}
+.menu {
+  margin-top: 14px;
+  background-color: #1d2126;
+}
+#modesttt {margin-top: 28px;
+
+}
+section nav ul li a{
+    color:#a4aead;
+    text-decoration:none;
+    padding:5px 10px;
+    border:0px solid #1d2126;
+    
+}
+section nav ul li a:hover{
+  border:2px solid #5b6168;
+  border-radius:3px;
+}
+.active {
+  border:2px solid #5b6168;
+  border-radius:3px;
+}
+section nav ul li a:focus{
+  border:2px solid #23b7a4;
+  color:#23b7a4;
+  border-radius:3px;
+  font-family: 
+}
+section nav ul{
+  text-align:right;
+}
+section nav ul li{
+  display:inline-block;
+  text-transform:uppercase;
+  font-family: 'Open Sans', sans-serif;
+  font-weight:600;
+  font-size:14px;
+  line-height:42px;
+  margin:0 7px;
+  font-weight: 'Semibold';
+}
+#menu-icon {
+  border-style: hidden;
+  display: hidden;
+  width: 40px;
+  height: 40px;
+  
+
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.carousel-inner > .item > img {
+ 
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 660px;
+}
+
+.fa-facebook {
+  background: #c8cdd0;
+  color: white;
+}
+
+.fa-twitter {
+  background: #c8cdd0;
+  color: white;
+}
+
+.fa-google {
+  background: #c8cdd0;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #c8cdd0;
+  color: white;
+}
+.fa-dribbble {
+  background: #c8cdd0;
+  color: white;
+}
+.fa-behance {
+  background: #c8cdd0;
+  color: white;
+}
+.fa-skype {
+  background: #c8cdd0;
+  color: white;
+}
+.footersocial .fa {
+  color: white;
+}
+
+.img {
+  position: relative;
+  background: #e1e6ea;
+}
+.img .overlay :hover {
+  background: #4e5a62;
+}
+.img :hover {
+  opacity: 0.5;
+}
+.img :hover figcaption{
+ background-color: #3a454d;
+}
+.img:hover .overlay {
+  display: block;
+
+}
+.overlay .fa{
+   background-color:  #3a454d;
+}
+/*.img :hover {
+  background: #3a454d;
+}*/
+.overlay {
+  position: absolute;
+  top: 110px;
+  left: 50px;
+  display: none;
+
+}
+
+.partner {
+  position: absolute;
+  top: 80%;
+  left: 15%;
+  display: none;
+}
+
+.img:hover .partner {
+  display: block;
+}
+
+.container-fluid {
+  margin-left: -30px;
+  margin-top: -30px;
+  margin-right: -30px;
+}
+
+#modest {
+  margin-top: 17px;
+}
+
+ 
+#wearemodest {
+  height: 420px;
+}
+.wearemodest {
+  margin-top: 20px;
+}
+.textmodest {
+  margin-top: 25px;
+}
+ 
+/*#showme {
+   color:white;
+    border:0px solid #1d2126;
+    border-radius: 4px;
+    background-color: #3a454d;
+    display: inline-block;
+    text-align: center;
+}*/
+#icon {
+  padding-bottom: 30px;
+}
+#textlonely {
+  line-height: 30px;
+  font-size: 16px;
+}
+
+#features {
+  background: #3a454d;
+  color: white;
+  height: 732px;
+  padding-top: 35px;
+}
+
+#textfeature {
+  line-height: 26px;
+  font-size: 17px;
+  margin-top: 45px;
+}
+
+#rowfeature {
+  padding-top: 100px;
+}
+#form {
+  color: : #A4A4A4; 
+}
+
+#textcontact {
+  position: relative;
+  }
+#formfix {
+  position: absolute;
+  left: 55%;
+  top: -33%;
+}
+.fonttext {
+  font-size: 36px;
+  font-weight: Regular;
+  font-family: 'Quattrocento Sans', sans-serif;
+  text-transform: uppercase;
+}
+
+.carousel-caption a{
+  font-family: 'Quattrocento Sans', sans-serif;
+  font-size:14px;
+  line-height:28px;
+  text-transform:uppercase;
+  width:120px;
+  height:50px;
+  background:none;
+  border:2px solid #ffffff;
+  color:#ffffff;
+  border-radius:5px;
+  margin-right:10px;
+ 
+  
+}
+.carousel-caption a:hover{
+  background:#23b7a4;
+  border:none;
+}
+.carousel-caption p{
+  font-size:16px;
+  line-height:26px;
+  color:#ccd0d7;
+  
+}
+.carousel-caption {
+  position: absolute;
+  text-align: left;
+  margin-left: -210px;
+  margin-bottom: 200px;
+}
+.carousel-indicators {
+  text-align: right;
+}
+#carousel {
+  position: relative;
+}
+#wearemodest .social i:hover{
+  background:#d0d5d9;
+}
+#wearemodest .righttext span{
+  float:left;
+  height:50px;
+  width:50px;
+  background:#23b7a4;
+  color:#ffffff;
+  padding:10px;
+  text-align:center;
+  vertical-align:central;
+  font-size: 20px;
+}
+#wearemodest .righttext .text h4{
+  font-size:18px;
+  margin-bottom:5px;
+  color:#292f36;
+}
+/*.text {
+  margin-bottom: 100px;}*/
+ .buttonshow {
+  background-color: #3a454d;
+  text-align: center;
+  color: white;
+   border:0px solid:white;
+   border-radius: 4px;
+   font-size: 22px;
+
+ }
+ #textfeature{
+  color: white;
+  padding-px;
+ }
+.righttext {
+  margin-top: -5px;
+}
+.text {
+  margin-left: 60px;
+}
